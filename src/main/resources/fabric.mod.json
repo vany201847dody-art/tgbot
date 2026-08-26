@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "tgbot",
+  "version": "${version}",
+  "name": "ТГ-Бот",
+  "description": "Telegram-бот для управления Minecraft. Два режима: серверный (ограниченный) и обычный (полный доступ).",
+  "authors": ["vizor"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.vizor.tgbot.TgBotMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.0",
+    "fabric": "*",
+    "minecraft": "~1.16.5"
+  }
+}
