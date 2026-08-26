@@ -96,4 +96,4 @@ cd tgbot
 
 ## Лицензия
 
-MIT
+VizorVerze
