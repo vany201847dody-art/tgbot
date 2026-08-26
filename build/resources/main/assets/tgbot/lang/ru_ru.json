@@ -1,0 +1,15 @@
+{
+  "key.tgbot.open": "Открыть настройки ТГ-бота",
+  "category.tgbot": "ТГ-Бот",
+  "gui.tgbot.title": "Настройки ТГ-бота",
+  "gui.tgbot.token": "Токен бота",
+  "gui.tgbot.chatid": "Chat ID (нажми «Определить»)",
+  "gui.tgbot.detect": "Определить",
+  "gui.tgbot.mode1": "Режим 1: Сервер",
+  "gui.tgbot.mode2": "Режим 2: Мир",
+  "gui.tgbot.admins": "Admin TG ID (через запятую)",
+  "gui.tgbot.save": "Сохранить",
+  "gui.tgbot.done": "Готово",
+  "gui.tgbot.status_on": "Статус: подключено",
+  "gui.tgbot.status_off": "Статус: отключено"
+}
